@@ -1,15 +1,14 @@
+# Bremontix Empreseria: A Vision for a Business Group
 
+> Generando conocimiento al servicio del bien común.
 
-## Linux: Build & Run
+## Build & Install
 
 - python3 -m venv env
 - source env/bin/activate
 - deactivate
 
-## Libs
+## Requirements
 
-
-- pip install mkdocs-material
-- pip install mkdocs
-
-
+- pip freeze > requirements.txt
+- pip install -r requirements.txt
