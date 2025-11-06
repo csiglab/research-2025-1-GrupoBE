@@ -16,13 +16,11 @@
 
 ## Laboratorium Arbitri
 
-## Laboratorium Personale
-
 ## Laboratorium Maius Legalis
 
-## Laboratorium Maius Computationale
+## Laboratorium Maius Technicorum
 
-## Laboratorium Maius Constructionis
+## Laboratorium Maius Salutis Productorum
 
 ## Laboratorium Maius Studiorum Hispanicorum
 
